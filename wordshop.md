@@ -15,3 +15,8 @@ habilitar la configuración de virtualización.
 
 Luego procedemos a Iniciar el virtual box.
 
+### Instalación de Vagrant
+
+Se utiliza desde la terminal, se debe realizar un folder de las maquinas virtuales que se ocuparan con el vagrant.
+
+
