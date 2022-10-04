@@ -1,5 +1,5 @@
 
-# [Ir a inicio](Readme.md/) 
+# [Ir a inicio](Inicio.md.md/) 
 
 # **Agregar un registro al archivo host**
 

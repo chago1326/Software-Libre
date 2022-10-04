@@ -1,4 +1,4 @@
-# [Ir a inicio](Readme.md/)
+# [Ir a inicio](Inicio.md/)
 
 
 ## 1. Estructuras de directorios para sitios

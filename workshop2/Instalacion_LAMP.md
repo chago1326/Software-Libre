@@ -1,4 +1,4 @@
-# [Ir a inicio](Readme.md/) 
+# [Ir a inicio](Inicio.md/) 
 
 
 ### Cambiar el nombre de la maquina por default por **webserver**, esto mediante el siguiente comando:
