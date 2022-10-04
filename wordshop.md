@@ -1,4 +1,4 @@
-## Wordshop 1
+## Workshop 1
 
 ### Prerrequisito Instalación de Virtual Box y Vagrant
 
